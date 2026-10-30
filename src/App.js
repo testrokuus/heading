@@ -4,8 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>This is created by Nagendra</h1>
-      <h2>This is added by Nagendra</h2>
+      <h1>This nagendra body text</h1>
+      <h2>DAZN</h2>
+
 
     </div>
   );
